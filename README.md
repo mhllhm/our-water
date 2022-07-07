@@ -22,10 +22,10 @@ Gli obiettivi di questo progetto sono:
 - Altre idee sono le benvenute
 
 ### Possibile prototipo di infrastruttura digitale:
-- Endpoint dove gli vari apparati possono mandare i loro dati
-- Elaboratori di dati che possono trasformare vari protocolli, in una struttura dati condivisa e comune
+- Endpoint dove gli apparati possono mandare i loro dati
+- Elaboratori di dati che possono trasformare i vari protocolli degli strumenti, in un modello dati condiviso e comune
 - Rappresentazione in Digital Twin della struttura di monitoraggio
-- Endpoint dove sviluppatori e applicazioni, possano richiedere i dati, attuali e storici
+- Endpoint dove enti, sviluppatori e applicazioni, possano richiedere i dati, attuali e storici
 
 ```mermaid
 graph TD;
@@ -39,6 +39,7 @@ graph TD;
     developers-->apis;
     apps-->apis;
 ```
+
 ### Possibili endpoint per gli hardware:
 - Broker Mqtt (emqx)
   - Endpoint CoAP/LWM2M
