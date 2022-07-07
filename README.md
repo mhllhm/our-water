@@ -39,6 +39,13 @@ graph TD;
     developers-->apis;
     apps-->apis;
 ```
+### Possibili endpoint per gli hardware:
+- Broker Mqtt (emqx)
+  - Endpoint CoAP/LWM2M
+  - Mqtt over WebSocket
+- Endpoint API Rest
+- Endpoint SMS (twilio)
+- Endpoint LoRa (The Things Network)
 
 ##### NB
 - Ogni contenuto di questa repository è libera e accessibile ai fini di poterci aiutare e di costruire qualcosa di utile per tutti.
