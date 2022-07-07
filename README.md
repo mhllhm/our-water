@@ -19,7 +19,7 @@ Gli obiettivi di questo progetto sono:
   - sarebbe bello dare la possibilità di segnalare situazioni pericolose (es alluvioni o esondazioni)
 - Dare la possibilità di far interagire vari dati e strumenti:
   - poter mandare notifiche alle persone con bollettini di emergenze
-- Altre idee sono le benvenute 🤗 
+- Altre idee sono le benvenute
 
 ### Possibile prototipo di infrastruttura digitale:
 - Endpoint dove gli vari apparati possono mandare i loro dati
