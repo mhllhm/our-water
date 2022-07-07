@@ -19,3 +19,18 @@ Gli obiettivi di questo progetto sono:
   
 - Dare la possibilità di far interagire vari dati e strumenti:
   - poter mandare notifiche alle persone con bollettini di emergenze
+
+
+Possibile prototipo di infrastruttura digitale:
+- Endpoint dove gli vari apparati possono mandare i loro dati
+- Elaboratori di dati che possono trasformare vari protocolli, in una struttura dati condivisa e comune
+- Rappresentazione in Digital Twin della struttura di monitoraggio
+- Endpoint dove sviluppatori e applicazioni, possano richiedere i dati, attuali e storici
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
