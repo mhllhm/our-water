@@ -29,10 +29,10 @@ Gli obiettivi di questo progetto sono:
 
 ```mermaid
 graph TD;
-    rilevatore-a-->hardware-endpoint;
-    rilevatore-b-->hardware-endpoint;
-    rilevatore-c-->hardware-endpoint;
-    hardware-endpoint-->digital-twin-model;
+    rilevatore-a-->hardware-endpoints;
+    rilevatore-b-->hardware-endpoints;
+    rilevatore-c-->hardware-endpoints;
+    hardware-endpoints-->digital-twin-model;
     digital-twin-model-->db;
     apis-->digital-twin-model;
     apis-->db;
