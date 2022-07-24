@@ -47,8 +47,3 @@ graph TD;
 - Endpoint API Rest
 - Endpoint SMS (twilio)
 - Endpoint LoRa (The Things Network)
-
-##### NB
-- Ogni contenuto di questa repository è libera e accessibile ai fini di poter aiutare nel costruire qualcosa di utile per tutti.
-- Il presuppposto quindi è che nulla qui dentro è a fine di lucro se non al fine del mantenimento di essa stessa.
-- Ogni idea qui dentro ha pari valore con le altre ed esse sono prive di un rendiconto economico ma con un alto valore sociale
