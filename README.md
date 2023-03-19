@@ -2,7 +2,7 @@
 
 Un progetto che prova ad offrire uno strumento per aiutarci a rispettare uno dei beni più preziosi che abbiamo, l'acqua.
 
-Sempre più di questi tempi, assistiamo a un estremizzazione di uno degli elementi cardini della vita.
+Sempre più di questi tempi, assistiamo all'estremizzazione di uno degli elementi cardini della vita.
 Sentiamo notizie che descrivono scenari dove l'acqua non c'è a sufficienza, c'è in eccessiva abbondanza oppure c'è ma con un tasso di inquinamento eccessivamente alto.
 
 Per poter invertire questa tendenza estrema, Our Water, si propone come un progetto di tutti, open source, per poter sfruttare l'ingegno al fine di ritrovare un equilibrio anche attraverso strumenti moderni.
