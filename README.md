@@ -14,7 +14,7 @@ Gli obiettivi di questo progetto sono:
   - la qualità dell'acqua e il suo cambiamento nel tempo
   - la portata dei corsi d'acqua in tempo reale
   - la mal gestione dell'uso di acqua
-- Creare degli strumenti per permettere di avere una piattaforma digitale dell'acqua che aiuti a scegliere decisioni più consapevoli
+- Creare degli strumenti per permettere di avere una piattaforma digitale dell'acqua che aiuti a prendere decisioni più consapevoli
 - Creare degli strumenti per poter aver una base dati nazionale condivisa, libera a participazione volontaria e libera:
   - sarebbe bello dare la possibilità di segnalare situazioni pericolose (es alluvioni o esondazioni)
 - Dare la possibilità di far interagire vari dati e strumenti:
