@@ -47,3 +47,6 @@ graph TD;
 - Endpoint API Rest
 - Endpoint SMS (twilio)
 - Endpoint LoRa (The Things Network)
+
+### Possibile schema infrastrutturale IoT:
+![OUR-WATER-IOT-INFRA](https://github.com/mhllhm/our-water/assets/67786873/73d55116-f5ef-489c-8ed5-c1ff9e15b121)
